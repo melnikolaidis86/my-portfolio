@@ -101,7 +101,17 @@ body.dark a:hover {
     color: #909090;
 }
 
-
+/* about */
+.profile-photo-container {
+    max-height: 670px;
+}
+#contact {
+    font-size:  2rem;
+    line-height: 1.6;
+}
+.about h1 {
+    font-size:  2.7rem;
+}
 
 
 @charset "UTF-8";

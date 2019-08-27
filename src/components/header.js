@@ -18,7 +18,7 @@ const Header = ({ siteAuthor }) => (
     </h1>
     <nav className='fr'>
       <Link
-        to="/"
+        to="/about/"
         className='text-large text-dark'
         itemProp="url"
       >

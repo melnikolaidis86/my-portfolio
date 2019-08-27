@@ -31,18 +31,19 @@ const Layout = ({ children }) => {
     >
       <Header siteAuthor={data.site.siteMetadata.author} />
       <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0px 1.0875rem 1.45rem`,
-          paddingTop: 0,
-        }}
+        id='main'
+        className='container mb6'
+        role='main'
       >
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        {children}
+        <footer
+          id='main-footer'
+          role='contentinfo'
+          className='pv6'
+        >
+          <small className='db tc mt0 text-small text-faded'>
+            © {new Date().getFullYear()} Meletis Nikolaidis. All rights reserved.
+          </small>
         </footer>
       </div>
     </div>
