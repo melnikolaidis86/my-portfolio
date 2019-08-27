@@ -11,21 +11,25 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
+import 'tachyons';
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
         siteMetadata {
-          title
+          title,
+          author
         }
       }
     }
   `)
 
   return (
-    <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+    <div
+      className='container page-container ph3 ph4-l animated fadeIn'
+    >
+      <Header siteAuthor={data.site.siteMetadata.author} />
       <div
         style={{
           margin: `0 auto`,
@@ -41,7 +45,7 @@ const Layout = ({ children }) => {
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
-    </>
+    </div>
   )
 }
 
