@@ -1,19 +1,41 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import ProjectList from "../components/projects-list"
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div>
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+export default ({ data }) => {
+    return (
+      <Layout>
+          <SEO title="Home" />
+          <div>
+            <ProjectList data={data} />
+          </div>
+      </Layout>
+    )
+}
 
-export default IndexPage
+export const query = graphql` 
+query {
+  allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    edges {
+      node {
+        id
+        frontmatter {
+            title
+            section
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 600) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+        }
+        fields {
+          slug
+        }
+      }
+    }
+  }
+}`

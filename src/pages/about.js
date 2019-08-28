@@ -60,8 +60,10 @@ const SecondPage = () => {
 
           <a href="/downloads/mycv.pdf" className="db" title="Download Mel's Nikolaidis CV" itemProp="url">Download
             CV</a>
-          <a href="https://gr.linkedin.com/in/meletis-nikolaidis-24648a14b" className="db"
+          <a href="https://gr.linkedin.com/in/meletis-nikolaidis-24648a14b" className="db mb5"
              title="Visit Mel's Nikolaidis on LinkedIn" itemProp="url">LinkedIn</a>
+          <a href="https://github.com/melnikolaidis86" className="db"
+             title="Check Mel Nikolaidis Github account" itemProp="url">GitHub</a>
         </div>
       </section>
     </Layout>
