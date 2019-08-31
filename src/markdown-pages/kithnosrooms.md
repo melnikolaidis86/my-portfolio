@@ -1,6 +1,6 @@
 ---
 title: "Kithnosrooms"
-date: "2017-08-10"
+date: "2019-09-29"
 featuredImage: ./images/kithnosrooms.png
 section: "WordPress"
 ---
@@ -9,5 +9,5 @@ A production project for Fyroi Studios in Kithnos built with WordPress. It was c
 
 The theme was built from scratch including custom gallery library and bootstrap 4 framework.
 
-You can check this project [here](https://kithnosrooms.gr): 
+<em>[https://kithnosrooms.gr](https://kithnosrooms.gr)</em> 
 

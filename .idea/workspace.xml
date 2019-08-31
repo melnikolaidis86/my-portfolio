@@ -4,12 +4,9 @@
     <list default="true" id="1f93b95a-474c-4946-86a1-41657da35564" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdown-pages/kithnosrooms.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/kithnosrooms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdown-pages/panostsonis.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/panostsonis.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/markdown-pages/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/markdown-pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,16 +33,17 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\melni\Desktop\sandbox\my-portfolio\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\images" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static\downloads" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static" />
     </key>
   </component>
@@ -72,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1566871195959</updated>
       <workItem from="1566871200373" duration="17778000" />
-      <workItem from="1567005454264" duration="12985000" />
+      <workItem from="1567005454264" duration="13270000" />
+      <workItem from="1567178314352" duration="512000" />
+      <workItem from="1567248598606" duration="3709000" />
     </task>
     <servers />
   </component>

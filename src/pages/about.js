@@ -27,8 +27,8 @@ const SecondPage = () => {
       </div>
       <article className='about center w-100 w-75-m w-50-l mb6'>
         <h1 className='mb5'>
-          Hello, I'm Mel Nikolaidis. <br/>
-          A web developer, focused on React development and PHP development, currently working at Elegento and
+          Hello, I'm Meletis Nikolaidis. <br/>
+          A web developer, focused on React and PHP development, currently working at Elegento and
           previously at TGN Solutions in Greece.
         </h1>
         <p className='tj'>
