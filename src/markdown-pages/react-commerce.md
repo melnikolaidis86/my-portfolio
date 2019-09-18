@@ -1,6 +1,6 @@
 ---
 title: "React E-commerce"
-date: "2019-09-31"
+date: "2019-09-13"
 featuredImage: ./images/react-commerce.png
 section: "React"
 ---

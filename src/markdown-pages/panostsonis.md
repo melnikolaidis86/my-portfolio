@@ -1,6 +1,6 @@
 ---
 title: "Panos Tsonis"
-date: "2019-09-28"
+date: "2019-08-29"
 featuredImage: ./images/panostsonis.png
 section: "WordPress"
 ---

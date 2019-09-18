@@ -1,6 +1,6 @@
 ---
 title: "Kithnosrooms"
-date: "2019-09-29"
+date: "2019-08-27"
 featuredImage: ./images/kithnosrooms.png
 section: "WordPress"
 ---

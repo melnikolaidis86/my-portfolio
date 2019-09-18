@@ -26,7 +26,7 @@ query {
             section
             featuredImage {
               childImageSharp {
-                fluid(maxWidth: 600) {
+                fluid(maxWidth: 600, maxHeight: 300) {
                   ...GatsbyImageSharpFluid
                 }
               }

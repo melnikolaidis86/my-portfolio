@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1f93b95a-474c-4946-86a1-41657da35564" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdown-pages/bmautoparts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/bmautoparts.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/markdown-pages/kithnosrooms.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/kithnosrooms.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/markdown-pages/panostsonis.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/panostsonis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdown-pages/react-commerce.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/react-commerce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +34,17 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\melni\Desktop\sandbox\my-portfolio\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\melni\Desktop\sandbox\gatsby\my-portfolio\src\markdown-pages" />
+      <recent name="C:\Users\melni\Desktop\sandbox\gatsby\my-portfolio\src\markdown-pages\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static\downloads" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\images" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static" />
     </key>
   </component>
@@ -72,7 +73,11 @@
       <workItem from="1566871200373" duration="17778000" />
       <workItem from="1567005454264" duration="13270000" />
       <workItem from="1567178314352" duration="512000" />
-      <workItem from="1567248598606" duration="3709000" />
+      <workItem from="1567248598606" duration="4684000" />
+      <workItem from="1567637648306" duration="491000" />
+      <workItem from="1568312617436" duration="23000" />
+      <workItem from="1568312674539" duration="39000" />
+      <workItem from="1568841283978" duration="1539000" />
     </task>
     <servers />
   </component>

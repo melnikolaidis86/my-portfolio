@@ -1,6 +1,6 @@
 ---
 title: "BMautoparts"
-date: "2019-09-30"
+date: "2019-08-29"
 featuredImage: ./images/bmautoparts.png
 section: "WordPress"
 ---
