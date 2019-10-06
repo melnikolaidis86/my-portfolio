@@ -3,17 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="1f93b95a-474c-4946-86a1-41657da35564" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markdown-pages/bmautoparts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/bmautoparts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markdown-pages/kithnosrooms.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/kithnosrooms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markdown-pages/panostsonis.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/panostsonis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markdown-pages/react-commerce.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown-pages/react-commerce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/project-card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/project-card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,7 +26,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/markdown-pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/markdown-pages/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,18 +38,18 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\melni\Desktop\sandbox\my-portfolio\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\melni\Desktop\sandbox\gatsby\my-portfolio\src\markdown-pages" />
-      <recent name="C:\Users\melni\Desktop\sandbox\gatsby\my-portfolio\src\markdown-pages\images" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
-      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static\downloads" />
       <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\melni\Desktop\sandbox\gatsby\my-portfolio\src\markdown-pages\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\gatsby\my-portfolio\src\markdown-pages" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\markdown-pages\images" />
+      <recent name="C:\Users\melni\Desktop\sandbox\my-portfolio\src\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,7 +81,9 @@
       <workItem from="1567637648306" duration="491000" />
       <workItem from="1568312617436" duration="23000" />
       <workItem from="1568312674539" duration="39000" />
-      <workItem from="1568841283978" duration="1539000" />
+      <workItem from="1568841283978" duration="1871000" />
+      <workItem from="1569169463157" duration="724000" />
+      <workItem from="1570320059225" duration="2559000" />
     </task>
     <servers />
   </component>

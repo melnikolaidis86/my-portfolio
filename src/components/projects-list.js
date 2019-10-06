@@ -11,7 +11,7 @@ const ProjectList = ({ data }) => (
           (
               <ProjectCard
                 key={id}
-                imageSrc={frontmatter.featuredImage.childImageSharp.fluid.src }
+                imageSrc={frontmatter.featuredImage.childImageSharp.fluid }
                 slug={fields.slug}
                 title={frontmatter.title}
                 section={frontmatter.section ? frontmatter.section : 'projects'}

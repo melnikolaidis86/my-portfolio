@@ -2,6 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Img from "gatsby-image"
 
 import { graphql, useStaticQuery } from "gatsby"
 
@@ -11,7 +12,7 @@ const SecondPage = () => {
     query {
       placeholderImage: file(relativePath: { eq: "meletis-nikolaidis.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 960) {
+          fluid(maxWidth: 960, maxHeight: 400) {
             ...GatsbyImageSharpFluid
           }
         }
@@ -23,7 +24,7 @@ const SecondPage = () => {
     <Layout>
       <SEO title="About me"/>
       <div className='profile-photo-container tc mb6'>
-        <img src={data.placeholderImage.childImageSharp.fluid.src} alt='Meletis Prfile' />
+        <Img fluid={data.placeholderImage.childImageSharp.fluid} />
       </div>
       <article className='about center w-100 w-75-m w-50-l mb6'>
         <h1 className='mb5'>
